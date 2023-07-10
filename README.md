@@ -42,8 +42,8 @@
   ⚙️🔧| **GitHub Estatísticas** </p>
  <div>
   <a href="https://github.com/Airton-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airton-J&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airton-J&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airton-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airton-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -55,4 +55,4 @@
  <hr/>
 </br>
    <p align="center"> 💻 Visitantes no Perfil </p>
- <img align="relative" src="https://github.com/Airton-J" > 
+ <img align="relative" src="https://github.com/Airton-Santos" > 
